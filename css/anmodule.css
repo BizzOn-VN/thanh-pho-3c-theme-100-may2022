@@ -473,7 +473,7 @@
   height: 6.2%;
   top: 18.3%;
   right: 18.8%;
-  width: 15.9%; }
+  width: 16%; }
   @media screen and (max-width: 768px) {
     .text-moment-museum {
       top: 21%;
@@ -558,8 +558,8 @@
     opacity: 0; } }
 .animation-text-clear {
   position: absolute;
-  width: 23.62%;
-  left: 65.1%;
+  width: 23.52%;
+  left: 65.24%;
   top: 59.75%;
   overflow: hidden; }
   @media screen and (max-width: 768px) {
@@ -775,7 +775,7 @@
   overflow: hidden;
   width: 3.8%;
   top: 32.6%;
-  left: 58.5%;
+  left: 58.4%;
   z-index: 9 !important; }
   @media screen and (max-width: 768px) {
     .animation-vach-song-2 {
@@ -1462,10 +1462,10 @@
   .md-img-mb {
     display: block; } }
 .delivery-3c {
-  width: 16.17%;
+  width: 15.17%;
   position: absolute;
   right: 3%;
-  bottom: 2%;
+  bottom: 5%;
   z-index: 5; }
   .delivery-3c img {
     width: 100%; }
@@ -1692,20 +1692,20 @@
             transform: rotate(0deg); } }
 .wellcome-line {
   position: absolute;
-  width: 21%;
-  top: 21%;
-  left: 28%; }
+  width: 23%;
+  top: 23%;
+  left: 27.7%; }
   @media screen and (max-width: 768px) {
     .wellcome-line {
       top: 26.5%;
-      left: 26%; } }
+      left: 23%; } }
 
 .img-share {
   cursor: pointer;
-  width: 10%;
+  width: 9.5%;
   position: absolute;
   left: 5%;
-  bottom: 2%;
+  bottom: 5%;
   min-width: 100px;
   z-index: 50;
   display: inline-block;
@@ -2277,10 +2277,10 @@ body {
   position: relative; }
 
 .percent-100 {
-  width: 8.5%;
+  width: 7.4%;
   position: absolute;
-  top: 41%;
-  right: 4.5%;
+  top: 41.9%;
+  right: 5.8%;
   z-index: 9; }
   .percent-100 img {
     width: 100%; }
@@ -2289,5 +2289,5 @@ body {
       width: 8.5%;
       position: absolute;
       top: 43.7%;
-      right: -1.5%;
+      right: -1.8%;
       z-index: 9; } }

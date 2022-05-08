@@ -290,9 +290,9 @@
     height: 100%; }
   .light .light-1 {
     position: absolute;
-    left: 51.2%;
-    top: 33.8%;
-    width: 2%;
+    left: 51.57%;
+    top: 28.8%;
+    width: 1.9%;
     z-index: 1;
     -webkit-transform: rotate(-15deg);
         -ms-transform: rotate(-15deg);
@@ -301,6 +301,10 @@
     -webkit-animation: light-1 infinite 10s;
          -o-animation: light-1 infinite 10s;
             animation: light-1 infinite 10s; }
+    @media (max-width: 767px) {
+      .light .light-1 {
+        left: 50.5%;
+        top: 28.8%; } }
 @-webkit-keyframes light-1 {
   0% {
     opacity: 1; }
@@ -354,17 +358,21 @@
     opacity: 1; } }
   .light .light-2 {
     position: absolute;
-    left: 57.7%;
+    left: 57.9%;
     -webkit-transform: rotate(9deg);
         -ms-transform: rotate(9deg);
          -o-transform: rotate(9deg);
             transform: rotate(9deg);
-    top: 32.5%;
-    width: 2.2%;
+    top: 27.4%;
+    width: 2%;
     -webkit-animation: light-2 infinite 10s;
          -o-animation: light-2 infinite 10s;
             animation: light-2 infinite 10s;
     z-index: 1; }
+    @media (max-width: 767px) {
+      .light .light-2 {
+        left: 58.8%;
+        top: 27%; } }
 @-webkit-keyframes light-2 {
   0% {
     opacity: 1; }
