@@ -2346,7 +2346,7 @@ input[type="submit"] {
   @media screen and (max-width: 768px) {
     .link-to {
       width: 11.8%;
-      top: 19%;
+      top: 19.4%;
       left: 50%; } }
 
 .light-glass {
@@ -2368,14 +2368,14 @@ input[type="submit"] {
           animation-delay: 2s; }
 
 .light-glass-2 {
-  top: 41%;
+  top: 42%;
   left: -2%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
           animation: light-glass infinite 4s; }
 
 .light-glass-3 {
-  top: 49%;
+  top: 51%;
   left: -3%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
@@ -2385,14 +2385,14 @@ input[type="submit"] {
           animation-delay: 2s; }
 
 .light-glass-4 {
-  top: 58%;
+  top: 60%;
   left: 0%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
           animation: light-glass infinite 4s; }
 
 .light-glass-5 {
-  top: 65%;
+  top: 67%;
   left: 2%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
@@ -2429,8 +2429,8 @@ input[type="submit"] {
           animation-delay: 2s; }
 
 .light-glass-9 {
-  top: 52%;
-  right: 0.2%;
+  top: 53%;
+  right: -0.2%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
           animation: light-glass infinite 4s; }
@@ -3683,11 +3683,11 @@ body {
     width: 100%;
     height: 22%; }
     .light .light-1 {
-      left: 51.2%;
-      top: 32.8%; }
+      left: 50.5%;
+      top: 29%; }
     .light .light-2 {
-      left: 59%;
-      top: 31%; }
+      left: 58.9%;
+      top: 27.5%; }
     .light .ico-5 {
       left: 56.2%; }
     .light .ico-4 {

@@ -1970,7 +1970,7 @@
   @media screen and (max-width: 768px) {
     .link-to {
       width: 11.8%;
-      top: 19%;
+      top: 19.4%;
       left: 50%; } }
 
 .light-glass {
@@ -1992,14 +1992,14 @@
           animation-delay: 2s; }
 
 .light-glass-2 {
-  top: 41%;
+  top: 42%;
   left: -2%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
           animation: light-glass infinite 4s; }
 
 .light-glass-3 {
-  top: 49%;
+  top: 51%;
   left: -3%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
@@ -2009,14 +2009,14 @@
           animation-delay: 2s; }
 
 .light-glass-4 {
-  top: 58%;
+  top: 60%;
   left: 0%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
           animation: light-glass infinite 4s; }
 
 .light-glass-5 {
-  top: 65%;
+  top: 67%;
   left: 2%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
@@ -2053,8 +2053,8 @@
           animation-delay: 2s; }
 
 .light-glass-9 {
-  top: 52%;
-  right: 0.2%;
+  top: 53%;
+  right: -0.2%;
   -webkit-animation: light-glass infinite 4s;
        -o-animation: light-glass infinite 4s;
           animation: light-glass infinite 4s; }
