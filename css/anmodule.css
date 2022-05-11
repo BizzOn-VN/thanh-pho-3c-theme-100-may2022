@@ -1827,6 +1827,9 @@
   visibility: hidden;
   z-index: -1;
   opacity: 0; }
+  @media screen and (max-width: 576px) {
+    .popup-3c-share {
+      padding: 20px 4% 15px 4%; } }
   .popup-3c-share.active-popup {
     visibility: visible;
     z-index: 9000;
@@ -1839,7 +1842,12 @@
     width: 100%; }
     @media screen and (max-width: 576px) {
       .popup-3c-share .blk-scroll {
-        max-height: 60vh; } }
+        max-height: 60vh;
+        padding-right: 0px; }
+        .popup-3c-share .blk-scroll .mCSB_inside > .mCSB_container {
+          margin-right: 16px; }
+        .popup-3c-share .blk-scroll .mCSB_scrollTools {
+          right: -3px; } }
     .popup-3c-share .blk-scroll .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
       background: #ffffff;
       width: 8px; }
@@ -1970,7 +1978,7 @@
   @media screen and (max-width: 768px) {
     .link-to {
       width: 11.8%;
-      top: 19.4%;
+      top: 19.5%;
       left: 50%; } }
 
 .light-glass {
